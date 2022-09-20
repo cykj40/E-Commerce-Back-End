@@ -52,16 +52,9 @@
 https://user-images.githubusercontent.com/102045473/191073113-b9024ccb-c939-486e-8400-2bf3f0105a13.mp4
 
 
- 
-  ## Installation
-  
-  ```md
-  I dont think you can install it without my mysql password. The only thing you could do is contact me 
-  and have me make one for you, for $$ or Join the Rutgers Coding   Bootcamp and they will teach you how to 
-  make one, as well as many other cool things. check out the link below. 
-```
 
-<a href="https://bootcamp.rutgers.edu/coding/"> Rutgers Coding Bootcamp</a>
+
+
   ## License
 ![badge](https://img.shields.io/badge/license-MIT--brightgreen)
 <br />
