@@ -12,7 +12,6 @@
   ## Table of Contents
   
  * [Description](#description)
- * [About](#about)
  * [User Story](#user-story)
  * [Acceptance Criteria](#acceptance-criteria)
  * [Video Submission](#video-submission)
@@ -22,16 +21,6 @@
  * [Questions](#questions)
   
  
-
-  ## About
-  
-  ```md
-  This assigment really does show us the students how valuable sequelize actually is. 
-  The command line displayed the code it wrote in sql language and it was a lot and   
-  it was all stuff I would have had to write myself if I wasnt using sequelize. 
-  Sequelize has it's own complexities but once you get used to it, it's obviuosly the       
-  better way to go since we have been learning javascript all along.
-  ```
 
   ## User Story
   
